@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-import scan_modified as sm
+import scanner as sm
 import password_gui as pw
 import serial
 import time
